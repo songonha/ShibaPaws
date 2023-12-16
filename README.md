@@ -1,2 +1,2 @@
 # ShibaPaws
-ShiBaPaws - Taipei Blockchain Week - Bonk Hackathon Track
+ShiBaPaws - Taipei Blockchain Week 2023 - Bonk Hackathon Track
